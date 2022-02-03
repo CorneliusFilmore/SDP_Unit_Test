@@ -1,0 +1,12 @@
+C:\Users\Cornelius Filmore\source\repos\CheckPrimeNumber\CheckPrimeNumber\obj\Debug\net5.0\CheckPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cornelius Filmore\source\repos\CheckPrimeNumber\CheckPrimeNumber\obj\Debug\net5.0\CheckPrimeNumber.AssemblyInfoInputs.cache
+C:\Users\Cornelius Filmore\source\repos\CheckPrimeNumber\CheckPrimeNumber\obj\Debug\net5.0\CheckPrimeNumber.AssemblyInfo.cs
+C:\Users\Cornelius Filmore\source\repos\CheckPrimeNumber\CheckPrimeNumber\obj\Debug\net5.0\CheckPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Cornelius Filmore\source\repos\CheckPrimeNumber\CheckPrimeNumber\bin\Debug\net5.0\CheckPrimeNumber.deps.json
+C:\Users\Cornelius Filmore\source\repos\CheckPrimeNumber\CheckPrimeNumber\bin\Debug\net5.0\CheckPrimeNumber.dll
+C:\Users\Cornelius Filmore\source\repos\CheckPrimeNumber\CheckPrimeNumber\bin\Debug\net5.0\ref\CheckPrimeNumber.dll
+C:\Users\Cornelius Filmore\source\repos\CheckPrimeNumber\CheckPrimeNumber\bin\Debug\net5.0\CheckPrimeNumber.pdb
+C:\Users\Cornelius Filmore\source\repos\CheckPrimeNumber\CheckPrimeNumber\obj\Debug\net5.0\CheckPrimeNumber.csproj.AssemblyReference.cache
+C:\Users\Cornelius Filmore\source\repos\CheckPrimeNumber\CheckPrimeNumber\obj\Debug\net5.0\CheckPrimeNumber.dll
+C:\Users\Cornelius Filmore\source\repos\CheckPrimeNumber\CheckPrimeNumber\obj\Debug\net5.0\ref\CheckPrimeNumber.dll
+C:\Users\Cornelius Filmore\source\repos\CheckPrimeNumber\CheckPrimeNumber\obj\Debug\net5.0\CheckPrimeNumber.pdb
